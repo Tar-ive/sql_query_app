@@ -1,0 +1,10 @@
+pandas
+requests
+sqlalchemy
+mysql-connector-python
+apache-airflow
+streamlit 
+openai
+langchain_openai
+langchain_community
+pymysql
